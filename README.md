@@ -1,6 +1,6 @@
 # Pong Game in C++
 
-This is a simple implementation of the classic Pong game in C++ using the console.
+This is a mult threaded classic Pong game in C++ using SFML graphics library.
 
 ## Features
 
@@ -24,7 +24,7 @@ This is a simple implementation of the classic Pong game in C++ using the consol
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/maazkhan75/Pong-game-for-linux-environment.git
+git clone https://github.com/maazkhan75/multi-threaded-pong-game.git
 
 
 
