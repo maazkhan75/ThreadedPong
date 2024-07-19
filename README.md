@@ -4,7 +4,7 @@ This is a multithreaded classic Pong game in C++ using the SFML graphics library
 
 ## 🎮 Features
 
-- 🆚 Single-player mode against the computer.
+- 💻 Single-player mode against the computer.
 - 👥 Two-player mode for playing with your friend.
 - 🎹 Simple and intuitive controls.
 - ⚙️ Basic collision detection and game logic.
