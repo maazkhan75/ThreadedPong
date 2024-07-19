@@ -1,30 +1,41 @@
-# Pong Game in C++
+# 🏓 Threaded Pong
 
-This is a mult threaded classic Pong game in C++ using SFML graphics library.
+This is a multithreaded classic Pong game in C++ using the SFML graphics library.
 
-## Features
+## 🎮 Features
 
-- Single-player mode against the computer.
-- two player mode for playing with you friend
-- Simple and intuitive controls.
-- Basic collision detection and game logic.
-- Score tracking for both players.
-- Adjustable ball speed.
+- 🆚 Single-player mode against the computer.
+- 👥 Two-player mode for playing with your friend.
+- 🎹 Simple and intuitive controls.
+- ⚙️ Basic collision detection and game logic.
+- 🏆 Score tracking for both players.
+- ⚡ Adjustable ball speed.
 
-### Prerequisites
+### 📋 Prerequisites
 
-- You need a linux environment, the game has been tested in UBUNTU (debian linux distro)
+- 🐧 You need a Linux environment; the game has been tested in **Ubuntu** (Debian Linux distro).
 
-### Setup Guide
-- for running the game use the following cmd in linux after installing sfml in linux using command -> 
-  sudo apt-get install libsfml-dev
-- for compiling the program use command ->  g++ t.cpp -lsfml-graphics -lsfml-window -lsfml-system -o t  
-- to run the executible use command -> ./t 
+### ⚙️ Setup Guide
 
-
-### Clone the Repository
-```bash
-git clone https://github.com/maazkhan75/ThreadedPong.git
-
+- For running the game, use the following command in Linux after installing SFML using the command:  
+```
+  bash
+    sudo apt-get install libsfml-dev
+```
+- For compiling the program, use the command:
+```
+  bash
+    g++ t.cpp -lsfml-graphics -lsfml-window -lsfml-system -o t
+```
+- To run the executable, use the command:
+```
+bash
+  ./t
+```
+### 📥 Clone the Repository
+```
+bash
+  git clone https://github.com/maazkhan75/ThreadedPong.git
+```
 
 
