@@ -30,8 +30,8 @@ This is a multithreaded classic Pong game in C++ using the SFML graphics library
   ./t
 ```
 ### 📥 Clone the Repository
-```bash
+\`\`\`bash
   git clone https://github.com/maazkhan75/ThreadedPong.git
-```
+\`\`\`
 
 
