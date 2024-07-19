@@ -24,7 +24,7 @@ This is a mult threaded classic Pong game in C++ using SFML graphics library.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/maazkhan75/multi-threaded-pong-game.git
+git clone https://github.com/maazkhan75/ThreadedPong.git
 
 
 
