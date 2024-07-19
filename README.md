@@ -19,19 +19,19 @@ This is a multithreaded classic Pong game in C++ using the SFML graphics library
 
 - For running the game, use the following command in Linux after installing SFML using the command:  
 ```bash
-    sudo apt-get install libsfml-dev
+sudo apt-get install libsfml-dev
 ```
 - For compiling the program, use the command:
 ```bash
-    g++ t.cpp -lsfml-graphics -lsfml-window -lsfml-system -o t
+g++ t.cpp -lsfml-graphics -lsfml-window -lsfml-system -o t
 ```
 - To run the executable, use the command:
 ```bash
-  ./t
+./t
 ```
 ### 📥 Clone the Repository
 ```bash
-  git clone https://github.com/maazkhan75/ThreadedPong.git
+git clone https://github.com/maazkhan75/ThreadedPong.git
 ```
 
 
