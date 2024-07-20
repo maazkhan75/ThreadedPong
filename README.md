@@ -29,6 +29,11 @@ g++ t.cpp -lsfml-graphics -lsfml-window -lsfml-system -o t
 ```bash
 ./t
 ```
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
 ### 📥 Clone the Repository
 ```bash
 git clone https://github.com/maazkhan75/ThreadedPong.git
