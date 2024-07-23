@@ -39,4 +39,10 @@ This project is licensed under the MIT License.
 git clone https://github.com/maazkhan75/ThreadedPong.git
 ```
 
+## 📸 Screenshots
+
+![](screenShots/1.png)
+![](screenShots/2.png)
+![](screenShots/3.png)
+
 
