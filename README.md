@@ -36,7 +36,7 @@ This project is licensed under the MIT License.
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/maazkhan75/ThreadedPong.git
+git clone https://github.com/maazkhandev75/ThreadedPong.git
 ```
 
 ## 📸 Screenshots
